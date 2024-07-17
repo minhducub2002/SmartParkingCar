@@ -1,2 +1,0 @@
-# SmartParkingCar
-SmartParkingCarProject
